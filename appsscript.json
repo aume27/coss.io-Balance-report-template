@@ -1,0 +1,13 @@
+{
+  "timeZone": "America/Caracas",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "Coss",
+      "libraryId": "1cWkV_FH6b3O3qwRBR1mrOVyIep3v3ZNEiMnZjObuJo610KqZzGSWlIYD",
+      "version": "18"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "sheets": {
+  }
+}
